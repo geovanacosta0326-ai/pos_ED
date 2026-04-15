@@ -11,3 +11,4 @@ Ultim versao
 VERSAO 4.5234
 
 cjasndjadnkdnakldnwqw
+Atualizado para bug/corrogor_eta
